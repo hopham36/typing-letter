@@ -1,0 +1,5 @@
+build/*.js
+config/*.js
+src/components/Room/*.vue
+src/assets/*.js
+src/App.vue
